@@ -22,7 +22,8 @@ EXPOSE 5000
 
 # Run
 ENV FLASK_APP=/code/giftshop/app.py
-ENV FLASK_ENV=development
+ENV FLASK_ENV=production
+# ENV FLASK_ENV=development
 ENV FLASK_RUN_HOST 0.0.0.0
 
 CMD flask run -p 5000

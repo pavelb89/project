@@ -3,7 +3,7 @@
 # Flask configuration
 # https://flask.palletsprojects.com/en/1.1.x/config/
 SECRET_KEY = 'abc'
-DEBUG = True
+DEBUG = False
 
 # Custom configuration
 SQLALCHEMY_TRACK_MODIFICATIONS = False
