@@ -1,0 +1,28 @@
+# IDE Projects
+.idea
+.project
+.pydevproject
+
+# Temp files
+*~
+*.tmp
+*.bak
+*.swp
+*.kate-swp
+*.DS_Store
+Thumbs.db
+
+# Generated files
+__pycache__
+*.pyc
+*.pyo
+
+# Runtime files
+/*.log
+
+# Never ignore
+!.gitkeep
+!.htaccess
+
+# My Special files and directories
+docs
