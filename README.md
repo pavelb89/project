@@ -1,5 +1,15 @@
 How to start the application:
 
+Create directory with name: task2
+
+Copy to this directory:
+- directory: giftshop
+- file: test.py
+
+Make this folder a working directory
+    
+    $ cd task2  
+    
 Install Docker:
 
     $ sudo apt install docker docker-compose
@@ -8,7 +18,7 @@ Enable docker.service on system startup
 
     $ sudo systemctl enable docker
 
-Launch Docker (in project directory):
+Launch Docker:
 
     $ docker-compose up
 
