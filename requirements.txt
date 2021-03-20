@@ -3,7 +3,7 @@ click==7.0
 flask-sqlalchemy==2.4.0
 flask==1.1.1
 itsdangerous==1.1.0
-jinja2==2.10.1
+jinja2==2.11.3
 markupsafe==1.1.1
 numpy==1.17.0
 psycopg2==2.8.3
